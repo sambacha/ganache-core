@@ -1,5 +1,5 @@
 {
-  "name": "@ganache/cli",
+  "name": "@contractshark/cli",
   "version": "0.1.0",
   "description": "",
   "author": "David Murdoch",
@@ -48,7 +48,7 @@
     "truffle"
   ],
   "devDependencies": {
-    "@ganache/core": "^0.1.0",
+    "@contractshark/core": "^0.1.0",
     "google-closure-compiler": "20201102.0.1"
   },
   "dependencies": {

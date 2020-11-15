@@ -1,5 +1,5 @@
 {
-  "name": "@ganache/options",
+  "name": "@contractshark/options",
   "version": "0.1.0",
   "description": "Ganache's server/provider options TypeScript types",
   "author": "David Murdoch <david@trufflesuite.com> (https://davidmurdoch.com)",
@@ -40,7 +40,7 @@
     "tooling"
   ],
   "dependencies": {
-    "@ganache/utils": "^0.1.0",
+    "@contractshark/utils": "^0.1.0",
     "bip39": "3.0.2",
     "seedrandom": "3.0.5"
   },

@@ -48,9 +48,9 @@
     "tooling"
   ],
   "dependencies": {
-    "@ganache/options": "^0.1.0",
-    "@ganache/promise-queue": "^0.1.0",
-    "@ganache/utils": "^0.1.0",
+    "@contractshark/options": "^0.1.0",
+    "@contractshark/promise-queue": "^0.1.0",
+    "@contractshark/utils": "^0.1.0",
     "@types/keccak": "3.0.1",
     "bip39": "3.0.2",
     "emittery": "0.7.2",

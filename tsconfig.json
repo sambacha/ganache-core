@@ -19,7 +19,7 @@
     "typeRoots": ["./node_modules/@types", "src/@types"],
     "experimentalDecorators": true,
     "paths": {
-      "@ganache/cli/cli": ["../cli/lib/cli"]
+      "@contractshark/cli/cli": ["../cli/lib/cli"]
     },
     "plugins": [
       {
