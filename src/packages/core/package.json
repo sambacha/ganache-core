@@ -46,7 +46,7 @@
     "tooling"
   ],
   "dependencies": {
-    "@ganache/ethereum": "^0.1.0",
+    "contractshark-core": "^0.1.0",
     "@ganache/flavors": "^0.1.0",
     "@ganache/options": "^0.1.0",
     "@ganache/tezos": "^0.1.0",
